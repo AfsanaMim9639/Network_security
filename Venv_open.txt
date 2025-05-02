@@ -1,0 +1,4 @@
+1.conda deactivate
+2.conda create -p venv python==3.10
+3.create all the folder
+4.conda activate venv/
